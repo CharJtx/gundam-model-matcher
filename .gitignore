@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+assets/
+output/
+*.log
+data/wiki/raw/
+*.dxg
+*.dds
+*.hed
+*.dat
